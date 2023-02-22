@@ -7,4 +7,4 @@ This is a project with creates a web app to find credit score using german credi
 
 *Transformation of the model using Streamlit API.
 
-The model deployment is demonstrated in the following link:https://nick-san12-germancredscore-models-hxx6p5.streamlit.app/
+The model deployment is demonstrated in the following link:https://dev-ikaa-germancredscore-models-hxx6p5.streamlit.app/
